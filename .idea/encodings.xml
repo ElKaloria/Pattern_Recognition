@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lab3/Not_Spam/1.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/Not_Spam/2.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/Not_Spam/3.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/Spam/1.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/Spam/2.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/Spam/3.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/Lab3/text_test/1.txt" charset="windows-1251" />
+  </component>
+</project>
